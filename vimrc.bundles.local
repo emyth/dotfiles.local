@@ -1,0 +1,4 @@
+" Define bundles via Github repos
+ Plugin 'sidorares/node-vim-debugger'
+ Plugin 'moll/vim-node'
+ Plugin 'vim-scripts/DirDo.vim'
