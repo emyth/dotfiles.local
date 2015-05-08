@@ -1,1 +1,6 @@
 set foldlevel=20
+set clipboard=unnamed
+map <Leader>i mmgg=G`m<CR>
+map <Leader>p :set paste<CR>o<esc>"*]p:set nopaste
+let g:NERDTreeWinSize=41
+set omnifunc=htmlcomplete#CompleteTags
